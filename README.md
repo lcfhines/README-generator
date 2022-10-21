@@ -1,7 +1,7 @@
 
-  # Project Title
+  # README Generator
 
-  ### ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ### 
 
   ## Table of Contents:
   1. [Description](#Description)
@@ -13,23 +13,20 @@
   7. [Questions](#Questions)
 
   ## Description
-  Description of project
+  A simple README.md file generator using the command line.
 
   ## Installation
-  Install node.js and inquirer.js
+  The README Generator requires installation of Node.js and the Inquirer.js package. The generator is demonstrated using VS Code and the terminal.
 
   ## Usage
-  Run node index and answer questions
+  Once installations are complete, simply run 'node index' in the terminal and answer the questions as prompted. This will generate a new README.md file in your directory.
 
   ## Contributing
-  Contribute!
+  Please submit pull requets for any contributions.
 
   ## Tests
-  Test away!
+  Test all of the license options to ensure the README is generated accordingly. Be mindful of the license badge at the top of the file and the license section.
 
-  
-  ## License
-  This application is covered by [MIT License](https://choosealicense.com/licenses/mit/).
   
   
   ## Questions
