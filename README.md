@@ -19,7 +19,9 @@
 
   ## Usage
   Once installations are complete, simply run 'node index' in the terminal and answer the questions as prompted. This will generate a new README.md file in your  directory.  
+  
   The video below demos the user flow starting with the node index command and ending with viewing the README from the GitHub repository.  
+  
   [README Generator Demo.webm](https://user-images.githubusercontent.com/113798073/197097033-c174aecf-330d-4a2e-82a3-4daa39041685.webm)
 
   ## Contributing
