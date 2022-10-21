@@ -1,7 +1,7 @@
 
   # README Generator
 
-  ### ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+  ### ![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 
   ## Table of Contents:
   1. [Description](#Description)
@@ -13,23 +13,23 @@
   7. [Questions](#Questions)
 
   ## Description
-  An automated README generator using Inquirer.js
+  An automated README.md generator
 
   ## Installation
-  You must install node.js and the inquirer.js package
+  Install node.js and the inquirer.js package
 
   ## Usage
-  Run node index and answer questions accordingly to fill out the content of a README
+  Run node index, answer the prompts, and a README file will be created with your answers
 
   ## Contributing
   Contributions welcome via pull request
 
   ## Tests
-  Please test
+  Test away please
 
   
   ## License
-  This application is covered by [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/).
+  This application is covered by [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
   
   
   ## Questions
