@@ -1,7 +1,7 @@
 
   # README Generator
 
-  ### ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ### ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
   ## Table of Contents:
   1. [Description](#Description)
@@ -13,23 +13,23 @@
   7. [Questions](#Questions)
 
   ## Description
-  Generates README
+  An automated README generator using Inquirer.js
 
   ## Installation
-  Do it
+  You must install node.js and the inquirer.js package
 
   ## Usage
-  Use it
+  Run node index and answer questions accordingly to fill out the content of a README
 
   ## Contributing
-  Contribute to it
+  Contributions welcome via pull request
 
   ## Tests
-  Test it
+  Please test
 
   
   ## License
-  This application is covered by [MIT License](https://choosealicense.com/licenses/mit/).
+  This application is covered by [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/).
   
   
   ## Questions
