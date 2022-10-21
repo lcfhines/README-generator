@@ -1,7 +1,7 @@
 
-  # README Generator
+  # Project Title
 
-  ### ![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
+  ### ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Table of Contents:
   1. [Description](#Description)
@@ -13,23 +13,23 @@
   7. [Questions](#Questions)
 
   ## Description
-  An automated README.md generator
+  Description of project
 
   ## Installation
-  Install node.js and the inquirer.js package
+  Install node.js and inquirer.js
 
   ## Usage
-  Run node index, answer the prompts, and a README file will be created with your answers
+  Run node index and answer questions
 
   ## Contributing
-  Contributions welcome via pull request
+  Contribute!
 
   ## Tests
-  Test away please
+  Test away!
 
   
   ## License
-  This application is covered by [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
+  This application is covered by [MIT License](https://choosealicense.com/licenses/mit/).
   
   
   ## Questions
